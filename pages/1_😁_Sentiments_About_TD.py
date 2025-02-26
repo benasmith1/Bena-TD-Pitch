@@ -129,7 +129,7 @@ with st.expander("🧮 **Procedure**"):
              
     📊 **3. Plot Sentiments**: The plot shown on this webpage uses the bokeh package
              
-    📝 **4. Get popular phrases**: Using the OpenAI API, I submit a prompt with the parsed webpages and requested that the top phrases contributing to the positive/ neutral/negative\
+    📝 **4. Get popular phrases**: Using the OpenAI API, I submit a prompt with the parsed webpages and requested that the top phrases contributing to the positive/ neutral/ negative\
             sentiments be returned
     """)
 
